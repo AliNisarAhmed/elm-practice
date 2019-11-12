@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "authorName": "typicode 3",
+      "authorUrl": "https://github.com/typicode"
+    },
+    {
+      "id": 2,
+      "title": "http-server",
+      "authorName": "indexzero",
+      "authorUrl": "https://github.com/indexzero"
+    },
+    {
+      "title": "Postman",
+      "authorName": "Postdude",
+      "authorUrl": "www.postman.com",
+      "id": 3
+    },
+    {
+      "title": "Hello World",
+      "authorName": "Ali Ahmed",
+      "authorUrl": "aliahmed.netlify.com",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
