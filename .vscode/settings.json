@@ -4,5 +4,6 @@
   "terminal.integrated.splitCwd": "workspaceRoot",
   "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "editor.formatOnSave": true,
-  "workbench.colorTheme": "Summer Night High Contrast"
+  "workbench.colorTheme": "Summer Night High Contrast",
+  "editor.codeLens": false
 }
